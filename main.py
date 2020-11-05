@@ -1,7 +1,6 @@
 """
 MadLibs
-Author: 
-Period/Core:
-
-
+Author: Sage Lammlein
+Period/Core: Core 3
 """
+
